@@ -1,0 +1,10 @@
+RA: Titulo: 
+Titulo: 
+ISBN: Data de Emprestimo: 
+Data de Emprestimo: 
+------------------------------
+RA: teste1885
+Titulo: dom casmurro
+ISBN: 123456
+Data de Emprestimo: 27/11/2024
+------------------------------
